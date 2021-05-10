@@ -1,5 +1,5 @@
-<h1 align="center">Sagiri</h1>
-<h3 align="center">As lovely as sagiri</h3>
+<h1 align="center">Sagiri魔改版</h1>
+<h3 align="center">准备中，好久没更新了，不知道原作者还更不更新了</h3>
     
 [![stars](https://flat.badgen.net/github/stars/cetr/halo-theme-sagiri)](https://github.com/cetr/halo-theme-sagiri)
 [![release](https://img.shields.io/github/v/release/cetr/halo-theme-sagiri.svg?style=flat-square)](https://github.com/cetr/halo-theme-sagiri)
@@ -10,17 +10,11 @@
 
 ![screenshot.png](https://cdn.jsdelivr.net/gh/cetr/halo-theme-sagiri@latest/screenshot.png)
 
-## 注意
-
-请不要再问我为什么你下载该主题后和作者的展示的不一样，我在这里统一说下，这里开源的是 Sagiri 主题的基础版本，作者的是私有的完整版本，完整版不进行开源
-
-另外说一下，两个版本的源码及结构是不一样的，所以开源版本有什么 Bug 的话请告知我，我将进行优化，不然我不知道
-
 ## 安装
 
 #### 压缩包上传方式（推荐）
 
-1. 下载最新发行版zip压缩包到本地 [点击前往](https://github.com/cetr/halo-theme-sagiri/releases)
+1. 下载最新发行版zip压缩包到本地 [点击前往](https://github.com/xiaoheiyo/halo-theme-sagiri/releases)
 2. 进入博客后台-外观-主题-安装
 3. 选择本地上传，将压缩包上传上去
 4. 等待提示安装完成
@@ -43,4 +37,4 @@
 - 修 bugs
 - 推 pr
 
-如果你有一下建议，可以在 [issues](https://github.com/cetr/halo-theme-sagiri/issues) 提出
+如果你有一下建议，可以在 [issues](https://github.com/xiaoheiyo/halo-theme-sagiri/issues) 提出
