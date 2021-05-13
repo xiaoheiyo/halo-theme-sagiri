@@ -30,6 +30,14 @@ demo：[https://www.daadn.cn](https://www.daadn.cn)
 
 **主题个性化的配置请在 Sagiri 的主题设置中设置！**
 
+## 魔改
+
+- [X] 增加友链模板
+- [X] 修改Font Awesome图标添加方式
+- [ ] 增加收藏模板
+- [ ] 修改底部音乐
+- [ ] 待添加
+
 ## 建议
 
 - 如果你有一下建议，可以在 [issues](https://github.com/xiaoheiyo/halo-theme-sagiri/issues) 提出
