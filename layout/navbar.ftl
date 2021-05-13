@@ -5,7 +5,7 @@
                 <li class="menu-item">
                     <#if menu.children?? && menu.children?size gt 0>
                         <a href="${menu.url!}" target="${menu.target!}">
-                            ${menu.icon!'<i class="menu-item-icon fa fa-fw"></i>'}<br/>
+                            <i class="${menu.icon!'<i class="menu-item-icon fa fa-fw"></i>'}"></i><br/>
                             ${menu.name!}
                         </a>
                         <div class="navbar-dropdown">
@@ -17,7 +17,7 @@
                         </div>
                     <#else >
                         <a href="${menu.url!}" target="${menu.target!}">
-                            ${menu.icon!'<i class="menu-item-icon fa fa-fw"></i>'}<br/>
+                            <i class="${menu.icon!'<i class="menu-item-icon fa fa-fw"></i>'}"></i><br/>
                             ${menu.name!}
                         </a>
                     </#if>
