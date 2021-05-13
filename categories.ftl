@@ -23,7 +23,7 @@
                                                 <#list categories as category>
                                                     <li class="category-list-item">
                                                         <a class="category-list-link"
-                                                           href="${category.fullPath}/">${category.name}</a>
+                                                           href="${category.fullPath}">${category.name}</a>
                                                         <span class="category-list-count">${category.postCount}</span>
                                                     </li>
                                                 </#list>

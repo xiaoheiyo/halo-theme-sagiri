@@ -25,7 +25,7 @@
                                                 <#list tags as tag>
                                                     <li class="category-list-item">
                                                         <a class="category-list-link"
-                                                           href="${tag.fullPath}/">${tag.name}</a>
+                                                           href="${tag.fullPath}">${tag.name}</a>
                                                         <span class="category-list-count">${tag.postCount}</span>
                                                     </li>
                                                 </#list>
