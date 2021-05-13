@@ -1,5 +1,5 @@
 <h1 align="center">Sagiri魔改版</h1>
-<h3 align="center">准备中，不知道原作者还更不更新了，有些功能作者不放，只能自己加了</h3>
+<h3 align="center">准备中，不知道原有些功能作者不放，只能自己加了</h3>
 
 [![stars](https://flat.badgen.net/github/stars/xiaoheiyo/halo-theme-sagiri)](https://github.com/xiaoheiyo/halo-theme-sagiri)
 [![release](https://img.shields.io/github/v/release/xiaoheiyo/halo-theme-sagiri.svg?style=flat-square)](https://github.com/xiaoheiyo/halo-theme-sagiri)
