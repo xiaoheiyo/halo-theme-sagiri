@@ -38,6 +38,7 @@ demo：[https://www.daadn.cn](https://www.daadn.cn)
 
 - [X] 增加友链模板
 - [X] 修改Font Awesome图标添加方式
+- [X] pc端返回挂件（图案设置自行修改back-to-top.ftl，设置未添加）
 - [ ] 增加收藏模板
 - [ ] 修改底部音乐,侧栏音乐
 - [ ] 添加左边栏-友链-公告

@@ -1175,6 +1175,20 @@ pre .javascript .function, pre .keyword {
     bottom: 30px
 }
 
+.back-to-top:hover {
+	animation: to-top-fly .4s steps(1) infinite;
+}
+
+@keyframes to-top-fly {
+    0% {background-position-x: -142.5px;}
+	16.5% {background-position-x: -284.5px;}
+	33% {background-position-x: -429.5px;}
+	49.5% {background-position-x: -570.5px;}
+	66% {background-position-x: -714.5px;}
+	82.5% {background-position-x: -856.5px;}
+	100% {background-position-x: 0px;}
+}
+
 .header {
     background: 0 0
 }
@@ -4311,11 +4325,11 @@ a {
 .back-to-top {
     cursor: pointer;
     position: fixed;
-    right: 50px;
+    right: 6px;
     top: -900px;
     z-index: 2;
-    width: 70px;
-    height: 900px;
+    width: 62px;
+    height: 88px;
     transition: all .5s ease-in-out;
     opacity: 1
 }
@@ -4489,7 +4503,7 @@ a {
 }
 
 .pagination {
-    margin: 20px 0;
+    margin: 50px 0;
     border-top: none;
     background: #fff;
     padding: 15px 0;
@@ -7263,7 +7277,7 @@ body {
     }
 
     .pagination {
-        margin-bottom: 0;
+        margin-bottom: 35;
     }
 }
 

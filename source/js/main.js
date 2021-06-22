@@ -55,7 +55,7 @@ const sagiri = {
             });
         };
         var backTo = $(".back-to-top");
-        var backHeight = $(window).height() - 980 + 'px';
+        var backHeight = $(window).height() - 150 + 'px';
         $(window).scroll(function () {
             if ($(window).scrollTop() > 700 && backTo.css('top') === '-900px') {
                 backTo.css('top', backHeight);
